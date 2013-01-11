@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1357928855 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\command.cpp
+	"../include/Command.h"
+
+1357926736 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\command.h
+
+1357945297 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\imap.cpp
+	"..\include\imap.h"
+
+1357934954 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\imap.h
+	<iostream>
+	<cstdlib>
+	"..\include\LogoutCommand.h"
+
+1357934746 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\logoutcommand.cpp
+	"../include/LogoutCommand.h"
+
+1357927711 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\logoutcommand.h
+	<iostream>
+	"Command.h"
+
+1357863004 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\ssl.cpp
+	"C:\Users\Kabaniz\Desktop\DataCommProj2\DataCommProject\Imap\include\SSL.h"
+
+1357861917 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\ssl.h
+
+1357928501 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\testcpp.cpp
+	"..\include\TestCPP.h"
+	"../include/LogoutCommand.h"
+	"../include/NextCommand.h"
+	"../include/PreviousCommand.h"
+	"../include/ReadCommand.h"
+
+1357800470 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\testcpp.h
+	<iostream>
+
+1357934717 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\nextcommand.cpp
+	"../include/NextCommand.h"
+
+1357928522 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\nextcommand.h
+	<iostream>
+	"Command.h"
+
+1357934734 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\previouscommand.cpp
+	"../include/PreviousCommand.h"
+
+1357928526 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\previouscommand.h
+	<iostream>
+	"Command.h"
+
+1357928556 source:c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\src\readcommand.cpp
+	"../include/ReadCommand.h"
+
+1357928532 c:\users\kabaniz\desktop\datacommproj2\datacommproject\imap\include\readcommand.h
+	<iostream>
+	"Command.h"
+

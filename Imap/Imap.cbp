@@ -31,6 +31,20 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="include/Command.h" />
+		<Unit filename="include/LogoutCommand.h" />
+		<Unit filename="include/NextCommand.h" />
+		<Unit filename="include/PreviousCommand.h" />
+		<Unit filename="include/ReadCommand.h" />
+		<Unit filename="include/SSL.h" />
+		<Unit filename="include/imap.h" />
+		<Unit filename="src/Command.cpp" />
+		<Unit filename="src/LogoutCommand.cpp" />
+		<Unit filename="src/NextCommand.cpp" />
+		<Unit filename="src/PreviousCommand.cpp" />
+		<Unit filename="src/ReadCommand.cpp" />
+		<Unit filename="src/SSL.cpp" />
+		<Unit filename="src/imap.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
