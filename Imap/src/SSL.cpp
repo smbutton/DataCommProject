@@ -1,5 +1,5 @@
-#include "C:\Users\Kabaniz\Desktop\DataCommProj2\DataCommProject\Imap\include\SSL.h"
-
+#include "..\include\SSL.h"
+//#include "..\openssl-1.0.1c\ssl\ssl.h"
 SSL::SSL()
 {
     //ctor
@@ -9,3 +9,6 @@ SSL::~SSL()
 {
     //dtor
 }
+
+//SSL Context
+//SSL
