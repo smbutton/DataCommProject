@@ -1,4 +1,4 @@
-#include "../include/ReadCommand.h"
+#include "ReadCommand.h"
 
 using namespace std;
 

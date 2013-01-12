@@ -1,4 +1,4 @@
-#include "../include/imap.h"
+#include "imap.h"
 
 using namespace std;
 /*

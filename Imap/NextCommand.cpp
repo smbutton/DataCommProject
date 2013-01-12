@@ -1,4 +1,4 @@
-#include "../include/NextCommand.h"
+#include "NextCommand.h"
 
 using namespace std;
 

@@ -1,4 +1,4 @@
-#include "../include/Command.h"
+#include "Command.h"
 using namespace std;
 void Command::Execute(){
 

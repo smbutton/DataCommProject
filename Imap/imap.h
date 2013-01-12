@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cstdlib>
 
-#include "..\include\LogoutCommand.h"
+#include "LogoutCommand.h"
 class imap
 {
     public:

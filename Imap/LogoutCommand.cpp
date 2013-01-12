@@ -1,4 +1,4 @@
-#include "../include/LogoutCommand.h"
+#include "LogoutCommand.h"
 
 using namespace std;
 
