@@ -1,4 +1,4 @@
-#include "..\include\SSL.h"
+#include "../include/SSL.h"
 //#include "..\openssl-1.0.1c\ssl\ssl.h"
 SSL::SSL()
 {

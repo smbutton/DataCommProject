@@ -1,0 +1,41 @@
+[33mcommit 7a9c70da3c22e1edf17fefaf4977db69265a0db2[m
+Author: Shawn Button <smb1717@rit.edu>
+Date:   Fri Jan 11 22:21:47 2013 -0500
+
+    Final commit with program working somewhat well for what I accomplished while working on windows and codeblocks.
+
+[33mcommit dba2a0c4063a98be1b10128bb8d4129a3f60cb0d[m
+Author: Shawn Button <smb1717@rit.edu>
+Date:   Fri Jan 11 19:58:52 2013 -0500
+
+    Example openssl
+
+[33mcommit e898b90f51af608970ad58ef5de1a192f1559ba0[m
+Author: Shawn Button <smb1717@rit.edu>
+Date:   Fri Jan 11 18:06:44 2013 -0500
+
+    Adding Open ssl library along with a begining user interface to allow me to test and the begining of trying to create the command pattern for the cli's commands.
+
+[33mcommit 6903b1d54e7448e631d99640595bc629681edb6a[m
+Author: Shawn Button <smb1717@rit.edu>
+Date:   Thu Jan 10 01:51:17 2013 -0500
+
+    Initial commit with my code block project
+
+[33mcommit 8fe8ffa2d7ceb612647fa16c6d6c26c8a1cce411[m
+Author: Shawn Button <smb1717@rit.edu>
+Date:   Thu Jan 10 01:09:36 2013 -0500
+
+    Getting rid of initial readme
+
+[33mcommit 87e5109573fd387cf75134f2d403ab5177cb8743[m
+Author: Shawn Button <smb1717@rit.edu>
+Date:   Thu Jan 10 01:02:51 2013 -0500
+
+    Data comm project 2 IMAP
+
+[33mcommit 7585cc94511b775196cd86d003d191e95f5fa6d4[m
+Author: smbutton <smb1717@rit.edu>
+Date:   Wed Jan 9 21:59:14 2013 -0800
+
+    Initial commit
